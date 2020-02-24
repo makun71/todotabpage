@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+.page-header {
+  padding: 0px 0;
+}
+
+.imgtop {
+  height: 80px;
+  width: auto;
+}
+
+.imgcolor {
+  padding-top: 10px;
+  max-width: 60%;
+  height: auto;
+}
+
+.navbar {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: .5rem 1rem;
+}
+
+.header-custom {
+  background-color: rgba(97, 182, 216, 0.9);
+}
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.inner-mainimage-c {
+  max-width: 700px;
+  text-align: center;
+  vertical-align: bottom;
+}
+
+
+.iphone-c {
+  padding-top: 10px;
+  max-width: 80%;
+  height: auto;
+}
+
+.outer-mainimage-c {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  min-height: 500px;
+  margin-top: 10px;
+  /* background-color: #5aa1e4; */
+}
+
+
+.inner-mainimage-c {
+  max-width: 700px;
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.main-bgimage-c {
+  width: 100%;
+  min-height: 600px;
+  background-image: url(img/mainback.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top right;
+  margin-bottom: 30px;
+  
+}
+
+.content-width-c {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: block;
+}
+
+.text-white {
+  color: #fff!important;
+}
+
+.text-bold-c {
+  font-weight: 600;
+}
+
+.main-margin-c {
+  margin-top: 40px;
+}
+
+.inner-maintext-c {
+  margin-left: 50px;
+  margin-right: 10px;
+}
+
+.outer-maintext-c {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  max-height: 400px;
+  margin-top: 100px;
+}
+
+.outer-mainimage-c {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  min-height: 500px;
+  margin-top: 120px;
+}
+
+.main-margin-c {
+  margin-top: 0px;
+}
+
+
+.main-content {
+  width: 100%;
+  min-height: 600px;
+  /* background-image: url(img/mainback.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top right; */
+  margin-bottom: 30px;
+  
+}
+
+
+.outer-content-text {
+  
+}
+
+.inner-content-image {
+  max-width: 600px;
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.outer-content-image {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  min-height: 500px;
+  margin-top: 0px;
+}
