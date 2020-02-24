@@ -73,14 +73,14 @@ body {
 
 
 .inner-mainimage-c {
-  max-width: 700px;
+  max-width: 600px;
   text-align: center;
   vertical-align: bottom;
 }
 
 .main-bgimage-c {
   width: 100%;
-  min-height: 600px;
+  min-height: 500px;
   background-image: url(img/mainback.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -124,8 +124,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  min-height: 500px;
-  margin-top: 120px;
+  min-height: 400px;
+  margin-top: 90px;
 }
 
 .main-margin-c {
@@ -146,6 +146,10 @@ body {
 
 
 .outer-content-text {
+  margin-left: 10px;
+}
+
+.inner-content-text {
   margin-left: 10px;
 }
 
